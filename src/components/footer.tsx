@@ -14,8 +14,8 @@ const Footer = () => {
             <Logo />
           </a>
           <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray pt-[18px] pb-[33px]">
-            It is a long established fact that a reader will be distracted
-            lookings.
+            Serving up the finest Bavarian cuisine 
+            for over 50 years.
           </p>
           <div className="flex gap-5 md:gap-[54px]">
             <a href="/">
@@ -38,19 +38,13 @@ const Footer = () => {
           </h5>
           <div className="flex flex-col gap-6">
             <a
-              href="/about"
+              href="/"
               className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray"
             >
               About Us
             </a>
             <a
-              href="/services"
-              className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray"
-            >
-              Services
-            </a>
-            <a
-              href="/contact"
+              href="/"
               className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray"
             >
               Contact Us
@@ -59,36 +53,33 @@ const Footer = () => {
         </div>
         <div className="col-span-1 flex flex-col gap-4">
           <h5 className="text-primary-200 font-dm text-[22px] lg:text-[25px] leading-loose">
-            Services
+            Contact
           </h5>
           <div className="flex flex-col gap-6">
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              Kitchen
+              233 6th St, New Westminster, BC V3L 3A5
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              Living Room
+              theoldbavariahausinc &nbsp; @gmail.com
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              Dining Hall
-            </p>
-            <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              Bedroom
+              +1 (604) 524-5824 &nbsp; Head Office: +1(778)952-8808
             </p>
           </div>
         </div>
         <div className="col-span-1 flex flex-col gap-4">
           <h5 className="text-primary-200 font-dm text-[22px] lg:text-[25px] leading-loose">
-            Contact
+            Hours
           </h5>
           <div className="flex flex-col gap-6">
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              55 East Birchwood Ave. Brooklyn, New York 11201
+              4:00 PM TO 9:00 PM Monday to Thursday
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              contact@interno.com
+              11:00 AM to 9:00 PM Friday to Sunday
             </p>
             <p className="tracking-tight text-base lg:text-[22px] lg:leading-[33px] font-jost text-text-gray">
-              (123) 456 - 7890
+              Can open earlier during the day for special occasions and parties on request.
             </p>
           </div>
         </div>
